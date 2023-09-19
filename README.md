@@ -1,4 +1,4 @@
-# strafe
+# Strafe
 ## Abstract 3D level-based runner game with level selector.  
 `C#` `Unity` `Game Design` `UI`
 
