@@ -1,5 +1,5 @@
 # Strafe
-## Abstract 3D level-based runner game with level selector.  
+## Abstract 3D level-based runner game with level selector
 `C#` `Unity` `Game Design` `UI`
 
 This is a runner style game I made when I was 15 years old. I was inspired by the aesthetic of games like SUPERHOT, Clustertruck etc. My focus was on level design, taking heavy consideration on introducing gameplay, balancing difficulty and immersion.
